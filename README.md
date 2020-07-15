@@ -2,7 +2,7 @@
 
 I'm a software engineer who loves figuring things out. Solving logical problems was always a great activity (also because of my mechanical engineering background), which has led me down the path of full stack development, where I get to do just that everyday.
 
-My PIN repos are the projects I built during my journey at Flatiron School, studying their Software Engineer course.
+My Pinned repos are the projects I built during my journey at Flatiron School, studying their Software Engineer course.
 
 Hit me up with any questions, suggestions, projects and to make connections!
 
