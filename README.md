@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello from Adao Natalino! 👋
+
+I'm a software engineer who loves figuring things out. Solving logical problems was always a great activity (also because of my mechanical engineering background), which has led me down the path of full stack development, where I get to do just that everyday.
+
+📫 How to reach me: 
+
+Linkedin: https://www.linkedin.com/in/adao-natalino-9bb85a89/
+Blog: https://medium.com/@adaonatalino
+
 
 <!--
 **AdaoNatalino/AdaoNatalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
