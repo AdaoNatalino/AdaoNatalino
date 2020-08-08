@@ -6,7 +6,7 @@ My Pinned repos are the projects I built during my journey at Flatiron School, s
 
 Hit me up for any questions, suggestions, projects and to make connections!
 
-📫 Reach me here: 
+📫 Get in contact:
 
 Linkedin: https://www.linkedin.com/in/adao-natalino-9bb85a89/
 Blog: https://medium.com/@adaonatalino
