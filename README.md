@@ -1,6 +1,6 @@
 Hello from Adao Natalino! 👋
 
-A Software Engineer who loves figuring things out. Solving logical problems was always a great activity (also because of my mechanical engineering background), which has led me down the path of full stack development, where I get to do just that everyday.
+A Software Engineer who loves figuring things out. Solving logical problems was always a great activity (also because of my mechanical engineering background), which has led me down the path of full stack development, where I get to do that everyday.
 
 My Pinned repos are the projects I built during my journey at Flatiron School, studying their Software Engineer course.
 
