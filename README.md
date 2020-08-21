@@ -4,7 +4,7 @@ A Software Engineer who loves figuring things out. Solving logical problems was 
 
 My Pinned repos are the projects I built during my journey at Flatiron School, studying their Software Engineer course.
 
-Hit me up for any questions, suggestions, projects or connections!
+Hit me up for any questions, suggestions, projects or connections!!!
 
 📫 Get in touch with me:
 
