@@ -9,7 +9,7 @@ Hit me up for any questions, suggestions, projects or connections!
 📫 Get in touch!
 
 Linkedin: https://www.linkedin.com/in/adao-natalino-9bb85a89/
-Blog: https://medium.com/@adaonatalino
+Medium: https://medium.com/@adaonatalino
 
 
 
