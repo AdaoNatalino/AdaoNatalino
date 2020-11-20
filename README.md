@@ -4,7 +4,7 @@ Software Engineer who loves figuring things out. Solving logical problems was al
 
 My Pinned repos are the projects I built during my journey at Flatiron School, studying their Software Engineer program!
 
-📫 Get in touch!
+📫 Get in touch!!!
 
 Linkedin: https://www.linkedin.com/in/adao-natalino-9bb85a89/
 Medium: https://medium.com/@adaonatalino
