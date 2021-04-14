@@ -14,8 +14,6 @@ My Pinned repos are the projects I built during my journey at Flatiron School, s
 
 ---
 
----
-
 ## 🧰 Toolbox  <img src="https://cdn.worldvectorlogo.com/logos/google-webmaster-tools.svg" alt="JavaScript Logo" width="25" height="25"/>  
 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="70" height="60"/>
