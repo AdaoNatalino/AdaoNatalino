@@ -2,7 +2,6 @@
 
 Software Engineer who loves figuring things out. Solving logical problems was always a great activity (also because of my mechanical engineering background), which has led me down the path of full stack development, where I get to do that everyday.
 
-My Pinned repos are the projects I built during my journey at Flatiron School, studying their Software Engineer program!
 
 ---
 
@@ -16,7 +15,8 @@ My Pinned repos are the projects I built during my journey at Flatiron School, s
 
 ## 🧰 Toolbox  <img src="https://cdn.worldvectorlogo.com/logos/google-webmaster-tools.svg" alt="JavaScript Logo" width="25" height="25"/>  
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="70" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="CSS Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="70" height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="CSS Logo" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="CSS Logo" width="50" height="50"/>
