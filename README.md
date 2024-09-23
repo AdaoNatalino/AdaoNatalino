@@ -21,7 +21,6 @@ Passionate Software Engineer with extensive experience in modern web technologie
   <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.js Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/loopback.svg" alt="LoopBack Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ruby-on-rails.svg" alt="Rails Logo" width="70" height="70"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
 </p>
@@ -30,10 +29,3 @@ Passionate Software Engineer with extensive experience in modern web technologie
 
 ## My Portfolio: <a href="https://adaonatalino.netlify.app/"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify Logo" width="30" height="30"/></a>
 
----
-
-## 📈 My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaoNatalino&hide=java&theme=onedark)](https://github.com/AdaoNatalino/github-readme-stats)
-
-[![AdaoNatalino's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdaoNatalino&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
