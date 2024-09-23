@@ -18,7 +18,7 @@ Passionate Software Engineer with extensive experience in modern web technologie
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="40" height="40"/>
-  <img src="[https://cdn.worldvectorlogo.com/logos/next-js.svg](https://cdn.worldvectorlogo.com/logos/nextjs-13.svg)" alt="NextJS Logo" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="NextJS Logo" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/loopback.svg" alt="LoopBack Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/>
